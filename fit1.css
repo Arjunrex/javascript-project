@@ -369,11 +369,6 @@ input[type="number"] {
 margin-top: 10px;
 }
 
-#footer2
-{
- 
-}
-
 #list2 
 {
   display: flex;
@@ -389,10 +384,6 @@ margin-top: 10px;
 {
   display: flex;
   justify-content: space-around;
-}
-#footer4
-{
-  
 }
 .grid5{
   border: 1px solid black;
